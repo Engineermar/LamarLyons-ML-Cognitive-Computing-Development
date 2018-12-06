@@ -1,1 +1,3 @@
 # LamarLyons-ML-Cognitive-Computing-Development
+### This is what most people associate with data science: “making robots”. This is a larger, more complex version of data mining and statistical analysis. These people focus more on getting all the input you need to feed the model; building data pipelines, convenient data sources, A/B testing and bench marking infrastructure. When/if this is done you might focus on building the actual algorithms/models, but this part more often than not involves well known, industry standard tools and statistical techniques. These focus area has become a buzzword in many organizations though, so I encourage looking into sub-fields within it in order to truly identify what you like.
+
